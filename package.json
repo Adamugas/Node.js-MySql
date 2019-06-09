@@ -1,0 +1,28 @@
+{
+  "name": "node.js-mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazonC.js",
+  "dependencies": {
+    "inquirer": "^6.3.1",
+    "mysql": "^2.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adamugas/Node.js-MySql.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Adam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adamugas/Node.js-MySql/issues"
+  },
+  "homepage": "https://github.com/Adamugas/Node.js-MySql#readme"
+}
